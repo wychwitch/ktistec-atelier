@@ -10,7 +10,7 @@
     "less": "^4.1.1",
     "less-loader": "^8.0.0",
     "style-loader": "^2.0.0",
-    "webpack": "^5.25.0",
+    "webpack": "^5.72.1",
     "webpack-cli": "^4.5.0"
   },
   "dependencies": {
